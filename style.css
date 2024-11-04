@@ -1,0 +1,14 @@
+.jumbotron {
+    padding-top: 5rem;
+    background: #ad5389;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #3c1053, #ad5389);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #3c1053, #ad5389);
+}
+.card{
+    padding: 9px;
+    background: linear-gradient(rgba(0, 0, 0, 0.463),rgba(255, 255, 255, 0.374));
+    backdrop-filter: blur(1000px);
+    border-radius: 12px;
+    border:3px solid rgba(255, 255, 255, 0.441);
+    box-shadow: 50px;
+}
